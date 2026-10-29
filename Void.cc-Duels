@@ -404,5 +404,4 @@ end)
 
 task.wait(1)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Voidccontop/Voidccsources/refs/heads/main/Void.cc%20Duels.lua%20(1).txt")()
-end)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Voidccontop/Voidccsources/refs/heads/main/Void.cc%20Duels.lua%20(1).txt"))()
